@@ -1,0 +1,9 @@
+{
+	"name": "Azure-Practice-DataFactory-KSH",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "395c2711-48bb-48bd-af51-cab01cfdbfef",
+		"tenantId": "06e40fe8-aa2c-4187-937e-a2dd0e46e977"
+	}
+}
